@@ -1,6 +1,6 @@
 # HyperTradeSystem
 
-[中文](README.md) | [English](README.en.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 A Hyperliquid trading-terminal prototype with market selection, charts, an order book, positions, orders, and wallet connectivity.
 
